@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sony ZV-E1 Master"
+  short_description: "基于索尼官方资料，精准解答 ZV-E1 相机机身的设置、操作与故障问题"
+  default_prompt: "Use $sony-zve1-master to answer my Sony ZV-E1 question from official sources."
